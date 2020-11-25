@@ -12,7 +12,7 @@ import cv2
 import numpy as np
 # import tqdm
 
-sys.path.append("/export/home/lxy/runtimelib-tensorrt-tiny/build")
+sys.path.append("/home/zsy/runtimelib-tensorrt-tiny/build")
 
 import pytrt
 

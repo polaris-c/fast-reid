@@ -12,7 +12,7 @@ MODEL:
     WITH_NL: False
     WITH_IBN: True
     PRETRAIN: True
-    PRETRAIN_PATH: "/export/home/lxy/.cache/torch/checkpoints/resnet34_ibn_a-94bc1577.pth"
+    PRETRAIN_PATH: "/home/zsy/.cache/torch/checkpoints/resnet34_ibn_a-94bc1577.pth"
 
   HEADS:
     NAME: "EmbeddingHead"

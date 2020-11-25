@@ -10,7 +10,7 @@ import numpy as np
 import sys
 
 sys.path.append('../../')
-sys.path.append("/export/home/lxy/runtimelib-tensorrt-tiny/build")
+sys.path.append("/home/zsy/runtimelib-tensorrt-tiny/build")
 
 import pytrt
 from fastreid.utils.logger import setup_logger
